@@ -1,2 +1,1 @@
-# Arkanoid
 # Javascript Arkanoid 
